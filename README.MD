@@ -1,5 +1,5 @@
 # IsInstalled
-[![GPL](https://img.shields.io/aur/license/yaourt.svg)]() [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
+[ ![Download](https://api.bintray.com/packages/morxander/IsInstalled/IsInstalled/images/download.svg) ](https://bintray.com/morxander/IsInstalled/IsInstalled/_latestVersion) [![GPL](https://img.shields.io/aur/license/yaourt.svg)]() [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
 The library allows you to check if a specific application is installed or not by its `package name`. Also you have a helper which provides the packagenames of the most popular applications.
 
