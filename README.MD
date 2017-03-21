@@ -1,4 +1,4 @@
-# IsInstalled
+""# IsInstalled
 [ ![Download](https://api.bintray.com/packages/morxander/IsInstalled/IsInstalled/images/download.svg) ](https://bintray.com/morxander/IsInstalled/IsInstalled/_latestVersion) [![GPL](https://img.shields.io/aur/license/yaourt.svg)]() [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
 The library allows you to check if a specific application is installed or not by its `package name`. Also you have a helper which provides the packagenames of the most popular applications.
@@ -16,7 +16,7 @@ compile 'morxander.isinstalled:IsInstalled:1.0.0'
 #### Check if an App exists
 
 ```java
-IsInstalled.isIntalled(this, com.android.chrome); // returns boolean
+IsInstalled.isIntalled(this, "com.android.chrome"); // returns boolean
 ```
 
 #### Using the library helper to get packagenames of more than 30 popular Apps
